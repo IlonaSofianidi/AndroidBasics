@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android Basics</string>
+    <string name="touch_view">Touch and drag (one finger only)</string>
+    <string name="touch_multi_view">Touch and drag (multiple fingers)</string>
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+    <string name="title_activity_course">CourseActivity</string>
+
+    <string name="id">course id:</string>
+    <string name="subject">Subject: </string>
+    <string name="instructor">Instructor: </string>
+    <string name="credits">Credits: </string>
+    <string name="schedule">Day of the weak: </string>
+    <string name="grade">Grade: </string>
+    <string name="update">Update data</string>
+    <string name="delete">Delete course</string>
+    <string name="add">Add course</string>
+    <string name="title_activity_google_map_test">Map</string>
+    <string-array name="subjects_course">
+        <item>Компютерні мережі</item>
+        <item>Компютерна логіка</item>
+        <item>Вища математика</item>
+        <item>Системне програмування</item>
+        <item>Кросс-платформені засоби програмування</item>
+        <item>Мережні операційні системи</item>
+    </string-array>
+
+
+</resources>
